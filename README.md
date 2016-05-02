@@ -33,14 +33,14 @@ I then added a dummy variable for whether the movie was released in June or Dece
 Finally, I added the number of torrents released for a particular title before or on its release date. 
 
 These 5 variables were then run on 80% of the data to train, and found an adjusted R^2 value of 0.688.
-![ols model](olsmodel.jpg)
-![ols model2](olsmodel2.jpg)
+![ols model](olsmodel.png)
+![ols model2](olsmodel2.png)
 
 Here's a histogram of the residuals, showing them to be normally distributed:
-![residual distribution](residdist.jpg)
+![residual distribution](residdist.png)
 
 And when run on the test set:
-![test set predict](modeltestpreds.jpg)
+![test set predict](modeltestpreds.png)
 
 
 
