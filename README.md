@@ -39,7 +39,7 @@ These 5 variables were then run on 80% of the data to train, and found an adjust
 Here's a histogram of the residuals, showing them to be normally distributed:
 ![residual distribution](residdist.png)
 
-And when run on the test set:
+And when run on the test set:  
 ![test set predict](modeltestpreds.png)
 
 
